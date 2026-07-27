@@ -1,0 +1,121 @@
+id_solicitud,fecha,nombre,correo,tipo_solicitud,valor,estado
+SOL-1001,2026-01-03,Juan Perez,juan.perez@empresa.com,Compra,500,Pendiente
+SOL-1002,05/01/2026,Maria Gomez,maria.gomez@gmail.com,Reembolso,12000,en proceso
+SOL-1003,2026/01/08,Andres Lopez,andres.lopez@corp.co,Acceso,0,COMPLETADO
+SOL-1004,2026-01-10,Laura Rodriguez,laura.rodriguez@yahoo.com,Soporte,55000,rechazada
+SOL-1005,12/01/2026,Carlos Sanchez,carlos.sanchez@empresa.com,Compra,250000,PENDIENTE
+SOL-1006,2026/01/15,Ana Maria Torres,ana.torres@outlook.com,Reembolso,1250000,En Proceso
+SOL-1007,2026-01-18,Jose Manuel Rios,jose.rios@empresa.com,Acceso,500.75,Pendiente
+SOL-1008,20/01/2026,Lucia Fernanda Cruz,lucia.cruz@gmail.com,Soporte,12000.5,COMPLETADO
+SOL-1009,2026/01/22,Miguel Angel Castro,miguel.castro@empresa.com,Compra,55000,RECHAZADO
+SOL-1010,2026-01-25,Paula Andrea Medina,paula.medina@hotmail.com,Reembolso,0,pendiente
+SOL-1011,28/01/2026,Daniela Ramirez,daniela.ramirez@empresa.com,Acceso,250000,En Proceso
+SOL-1012,2026/01/29,Sofia Herrera,sofia.herrera@gmail.com,Soporte,1250000,completada
+SOL-1013,2026-02-01,Felipe Vargas,felipe.vargas@corp.co,Compra,500,Pendiente
+SOL-1014,03/02/2026,Camila Ortega,camila.ortega@gmail.com,Reembolso,12000,EN PROCESO
+SOL-1015,2026/02/05,Nicolas Moreno,nicolas.moreno@empresa.com,Acceso,55000.25,Completado
+SOL-1016,2026-02-07,Valentina Ruiz,valentina.ruiz@icloud.com,Soporte,250000,rechazada
+SOL-1017,09/02/2026,Sebastian Navarro,sebastian.navarro@empresa.com,Compra,1250000,PENDIENTE
+SOL-1018,2026/02/11,Gabriela Pineda,gabriela.pineda@gmail.com,Reembolso,0,Pendiente
+SOL-1019,2026-02-14,Diego Alvarez,diego.alvarez@empresa.com,Acceso,500,En Proceso
+SOL-1020,16/02/2026,Tatiana Mendoza,tatiana.mendoza@live.com,Soporte,12000.99,COMPLETADO
+SOL-1021,2026/02/19,Javier Cardenas,javier.cardenas@empresa.com,Compra,55000,RECHAZADO
+SOL-1022,2026-02-21,Monica Salazar,monica.salazar@gmail.com,Reembolso,250000,pendiente
+SOL-1023,23/02/2026,Ricardo Molina,ricardo.molina@corp.co,Acceso,1250000,En Proceso
+SOL-1024,2026/02/26,Natalia Vega,natalia.vega@yahoo.com,Soporte,500,Completado
+SOL-1025,2026-03-01,Hector Fuentes,hector.fuentes@empresa.com,Compra,0,rechazada
+SOL-1026,04/03/2026,Claudia Rojas,claudia.rojas@gmail.com,Reembolso,12000,Pendiente
+SOL-1027,2026/03/06,Oscar Prieto,oscar.prieto@empresa.com,Acceso,55000,EN PROCESO
+SOL-1028,2026-03-09,Liliana Campos,liliana.campos@outlook.com,Soporte,250000.5,Completado
+SOL-1029,11/03/2026,Mauricio Gil,mauricio.gil@empresa.com,Compra,1250000,RECHAZADO
+SOL-1030,2026/03/13,Patricia Leon,patricia.leon@gmail.com,Reembolso,500,pendiente
+SOL-1031,2026-03-16,Fernando Arias,fernando.arias@empresa.com,Acceso,12000,En Proceso
+SOL-1032,18/03/2026,Adriana Mejia,adriana.mejia@icloud.com,Soporte,0,COMPLETADO
+SOL-1033,2026/03/21,Sandra Milena Diaz,sandra.diaz@empresa.com,Compra,55000,rechazada
+SOL-1034,2026-03-24,Kevin Arturo Nunez,kevin.nunez@gmail.com,Reembolso,250000,PENDIENTE
+SOL-1035,26/03/2026,Carolina Buitrago,carolina.buitrago@empresa.com,Acceso,1250000.75,Pendiente
+SOL-1036,2026/03/29,Julian Esteban Peña,julian.pena@empresa.com,Soporte,500,EN PROCESO
+SOL-1037,2026-04-01,Marcela Quintero,marcela.quintero@gmail.com,Compra,12000,Completado
+SOL-1038,03/04/2026,Cristian Duarte,cristian.duarte@corp.co,Reembolso,55000,rechazada
+SOL-1039,2026/04/06,Alejandra Parra,alejandra.parra@empresa.com,Acceso,250000,PENDIENTE
+SOL-1040,2026-04-08,William Guerrero,william.guerrero@hotmail.com,Soporte,1250000,Pendiente
+SOL-1041,10/04/2026,Manuela Aguirre,manuela.aguirre@empresa.com,Compra,0,En Proceso
+SOL-1042,2026/04/12,Edgar Bautista,edgar.bautista@gmail.com,Reembolso,500.2,COMPLETADO
+SOL-1043,2026-04-15,Lorena Beltran,lorena.beltran@empresa.com,Acceso,12000,RECHAZADO
+SOL-1044,17/04/2026,Sergio Cabrera,sergio.cabrera@outlook.com,Soporte,55000,pendiente
+SOL-1045,2026/04/20,Diana Marcela Rueda,diana.rueda@empresa.com,Compra,250000,En Proceso
+SOL-1046,2026-04-22,Rafael Benitez,rafael.benitez@gmail.com,Reembolso,1250000,Completado
+SOL-1047,24/04/2026,Katherine Lozano,katherine.lozano@empresa.com,Acceso,500,rechazada
+SOL-1048,2026/04/27,Jonathan Pardo,jonathan.pardo@corp.co,Soporte,12000,PENDIENTE
+SOL-1049,2026-04-29,Veronica Acosta,veronica.acosta@gmail.com,Compra,55000.45,Pendiente
+SOL-1050,02/05/2026,Brayan Cifuentes,brayan.cifuentes@empresa.com,Reembolso,250000,EN PROCESO
+SOL-1051,2026/05/05,Yolanda Forero,yolanda.forero@yahoo.com,Acceso,1250000,Completado
+SOL-1052,2026-05-07,Ivan Ospina,ivan.ospina@empresa.com,Soporte,0,RECHAZADO
+SOL-1053,09/05/2026,Nadia Bernal,nadia.bernal@gmail.com,Compra,500,pendiente
+SOL-1054,2026/05/12,Pedro Pablo Sarmiento,pedro.sarmiento@empresa.com,Reembolso,12000,En Proceso
+SOL-1055,2026-05-15,Ángela María Gómez,angela.gomez@empresa.com,Acceso,55000,COMPLETADO
+SOL-1056,18/05/2026,José Luis Martínez,jose.martinez@gmail.com,Soporte,250000,rechazada
+SOL-1057,2026/05/20,María Fernanda López,maria.lopez@empresa.com,Compra,1250000,PENDIENTE
+SOL-1058,2026-05-22,Andrés Felipe Ruiz,andres.ruiz@corp.co,Reembolso,500.5,Pendiente
+SOL-1059,24/05/2026,Óscar Iván Castro,oscar.castro@gmail.com,Acceso,12000,En Proceso
+SOL-1060,2026/05/27,Luisa Fernanda Niño,luisa.nino@empresa.com,Soporte,0,COMPLETADO
+SOL-1061,2026-05-30,Camilo Andrés Peña,camilo.pena@empresa.com,Compra,55000,RECHAZADO
+SOL-1062,02/06/2026,Mónica Patricia León,monica.leon@gmail.com,Reembolso,250000.85,pendiente
+SOL-1063,2026/06/05,René Alberto Díaz,rene.diaz@empresa.com,Acceso,1250000,En Proceso
+SOL-1064,2026-06-08,Paola Jimena Rincón,paola.rincon@outlook.com,Soporte,500,Completado
+SOL-1065,10/06/2026,Julián Andrés Vélez,julian.velez@empresa.com,Compra,12000,rechazada
+SOL-1066,2026/06/12,Tatiana Sofía Muñoz,tatiana.munoz@gmail.com,Reembolso,55000,PENDIENTE
+SOL-1067,2026-06-15,Esteban Darío Mora,esteban.mora@empresa.com,Acceso,250000,Pendiente
+SOL-1068,18/06/2026,Carolina Andrea Cárdenas,carolina.cardenas@yahoo.com,Soporte,1250000,EN PROCESO
+SOL-1069,2026/06/21,Felipe Andrés Rocha,felipe.rocha@empresa.com,Compra,0,Completado
+SOL-1070,2026-06-24,Daniela Sofía Pardo,daniela.pardo@empresa.com,Reembolso,500,RECHAZADO
+SOL-1071,26/06/2026,Mariana Torres,mariana.torres@gmail.com,Acceso,12000.4,pendiente
+SOL-1072,2026/06/29,Jorge Eliecer Rojas,jorge.rojas@empresa.com,Soporte,55000,En Proceso
+SOL-1073,2026-01-14,Sara Correa,sara.correa@empresa.com,Compra,250000,COMPLETADO
+SOL-1074,2026/02/17,Emilio Suárez,emilio.suarez@gmail.com,Soporte,1250000,rechazada
+SOL-1075,14/04/2026,Helena Restrepo,helena.restrepo@empresa.com,Reembolso,500,PENDIENTE
+SOL-1076,2026-06-03,Tomás Giraldo,tomas.giraldo@empresa.com,Acceso,12000,Pendiente
+SOL-1077,2026/03/18,Inés Villamil,ines.villamil@gmail.com,Compra,55000,En Proceso
+SOL-1078,07/05/2026,Rubén Gallego,ruben.gallego@empresa.com,Soporte,250000,COMPLETADO
+SOL-1079,2026-02-27,Noelia Zapata,noelia.zapata@outlook.com,Reembolso,1250000,RECHAZADO
+SOL-1080,2026/04/30,Samuel Trujillo,samuel.trujillo@empresa.com,Acceso,0,pendiente
+,2026-01-05,Juliana Mesa,juliana.mesa@empresa.com,Compra,500,Pendiente
+SOL-1081,2026-01-40,Roberto Peña,roberto.pena@gmail.com,Reembolso,12000,En Proceso
+SOL-1082,,Gloria Ruiz,gloria.ruiz@empresa.com,Acceso,55000,COMPLETADO
+SOL-1083,15-01-2026,Mauricio Lara,mauricio.laraempresa.com,Soporte,250000,rechazada
+SOL-1084,2026/13/15,Paula Nieto,paula.nieto@gmail,Compra,-500,PENDIENTE
+SOL-1085,32/01/2026,,catalina.rios@empresa.com,Pago,1250000,Pendiente
+SOL-1086,2026-02-11,Hugo Salas,hugo.salas@empresa..com,,,EN PROCESO
+SOL-1087,2026-02-13,Adela Patiño,adela.patino@empresa.com,Reembolso,-12000,Finalizado
+SOL-1088,2026/02/15,Mario Casas,mario.casas#mail.com,Acceso,texto,Pendientee
+SOL-1089,2026-02-17,Nora Beltran,nora.beltran@,Soporte,-55000,Desconocido
+SOL-1090,,,,,,
+SOL-1091,2026-02-30,Erika Sosa,erika.sosa@gmail.com,Compra,250000,RECHAZAD
+SOL-1015,2026/03/03,Luis Franco,luis.franco@gmail.com,Mesa,1250000,Aprobado
+SOL-1093,2026-03-05,Andrea Melo,andrea.meloempresa.com,Soporte,-1,pendiiente
+SOL-1094,03/15/2026,Sonia Perez,sonia.perez@empresa.com,Compra,,Pendiente
+SOL-1095,2026/03/10,,jhon.navas@gmail,Otro,,Procesando
+SOL-1096,2026-03-12,Felix Rojas,felix.rojas@empresa.com,Acceso,-500.5,completadoo
+SOL-1097,2026-03-14,Marta Arias,marta.arias@@mail.com,Reembolso,doce mil,En tramite
+SOL-1020,2026-03-16,Raul Becerra,raul.becerra@gmail.com,Compra,55000,xx
+SOL-1099,2026/03/45,Diana Soler,diana.soler@empresa,Accesoo,-250000,PENDIENT
+SOL-1100,2026-04-02, ,sebastian.cuervo@gmail.com,Soporte,12000,Pendiente
+SOL-1101,abril 5 2026,Patricia Mora,patricia.mora@empresa.com,Compra,500,COMPLETADOO
+SOL-1102,2026-04-08,Kevin,kevin!mail.com,Reembolso,1250000,rechazad
+SOL-1103,2026-04-10,Laura Gil,laura.gil@gmail.com,,texto,en pr0ceso
+SOL-1104,2026/04/12,,,Incidente,,---
+SOL-1033,,Cristina Rueda,cristina.rueda@empresa.com,Acceso,-55000,Pendiente??
+SOL-1106,2026-04-31,Javier Niño,javier.nino@empresa..co,Compra,10,PENDIENTE 
+SOL-1107,2026/04/18,Olga Herrera,olga.herrera@gmail.com,Soporte,,N/A
+SOL-1007,2026-05-01,,monica.gutierrezmail.com,Solicitud,0x20,Completad0
+SOL-1109,2026/05/03,Ricardo,ricardo@empresa,Reembolso,-999,rechazadaa
+SOL-1110,2026-05-05,Veronica Mena,veronica.mena@gmail.com,Compra,,Pendiente
+SOL-1048,2026/05/07,Arturo Prieto,arturo.prieto@gmail.com,Soporte,texto,PENDIENTEE
+SOL-1112,2026-05-09,Natalia Casas,@gmail.com,Acceso,-500,Sin estado
+SOL-1113,2026/05/11,,andres.silva@empresa.com,,,Pendiete
+SOL-1031,2026-15-11,Marcela Navas,marcela.navas@gmail.com,Compra,12000,En Proceso?
+SOL-1115,,Fabian Cruz,fabian.cruzgmail.com,Otro,texto,
+SOL-1055,2026/05/17,Yina Lozada,yina.lozada@empresa.com,Acceso,-250000,aprobada
+SOL-1117,2026-06-00,,,Mesa de ayuda,,Pendienteeee
+SOL-1118,2026/06/19,Clara Osorio,clara.osorio@gmail..com,Soporte,5,Completadoo
+SOL-1069,2026-06-21,Pedro,pedro.perez@empresa.,Compra,mil,Rechazad0

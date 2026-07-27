@@ -9,8 +9,6 @@ administrativa. El detalle completo del problema está en
 
 - Python 3.12+
 - Dependencias en `requirements.txt`: `pandas` y `pydantic`. No se usa `requests`
-  porque el envío al servicio externo (sección "Integración") se simula, sin llamadas
-  HTTP reales.
 
 ## Instalación y configuración
 
