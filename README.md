@@ -8,7 +8,7 @@ administrativa. El detalle completo del problema está en
 ## Requisitos previos
 
 - Python 3.12+
-- Dependencias en `requirements.txt`: `pandas` y `pydantic`. No se usa `requests`
+- Dependencias en `requirements.txt`: `pandas` y `pydantic`.
 
 ## Instalación y configuración
 
